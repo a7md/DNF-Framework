@@ -1,0 +1,5 @@
+{
+    "USER": ["BASIC"],
+    "MODERATOR" : ["BASIC","MEDIUM"],
+    "ADMIN": ["BASIC","ADVANCED"]
+}

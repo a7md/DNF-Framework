@@ -1,0 +1,18 @@
+{
+    "whoami": {
+        "permission" : ["ADMIN","USER"],
+        "description" : "Tells you who you are."
+    },
+    "ping" : {
+        "permission" : ["ADMIN"],
+        "description" : "Checks if server is alive."
+    },
+    "searchig": {
+        "permission" : ["ADMIN"],
+        "description" : "Seearches"
+    },
+    "changeDescription" : {
+        "permission" : ["ADMIN","USER"],
+        "description" : "Changes the user description."
+    }
+}

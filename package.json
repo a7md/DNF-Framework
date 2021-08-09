@@ -1,0 +1,17 @@
+{
+  "name": "difrim",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Ahmed Bin Ali",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^13.0.1",
+    "dotenv": "^10.0.0"
+  }
+}
