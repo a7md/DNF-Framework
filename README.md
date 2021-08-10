@@ -26,6 +26,7 @@ Now you need to change .env.example to .env & configure the data inside it:
 ```sh
 DISCORD_TOKEN_BOT="" # Paste the Bot Token Here.
 DISCORD_BOT_ID="" # Paste the Bot Id Here.
+DISCORD_PREFIX=['!', '!!',] # Bot Prefix
 ```
 
 ## Running The BOT.
