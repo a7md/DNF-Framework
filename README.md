@@ -28,6 +28,21 @@ DISCORD_TOKEN_BOT="" # Paste the Bot Token Here.
 DISCORD_BOT_ID="" # Paste the Bot Id Here.
 ```
 
+## Running The BOT.
+
+Simple Command That Runs The BOT For you.
+
+
+```sh
+npm start
+```
+
+```sh
+DISCORD_TOKEN_BOT="" # Paste the Bot Token Here.
+DISCORD_BOT_ID="" # Paste the Bot Id Here.
+```
+
+
 
 
 
