@@ -3,7 +3,7 @@ const Discord = require('discord.js');
 const client = new Discord.Client({ intents: ["GUILDS", "GUILD_MESSAGES"] })
 const Middleware = require('./lib/Middleware')
 const commands = require('./lib/Commands.js')
-const prefixList = ['!', '!!',]
+const prefixList = process.env.DISCORD_PREFIX
 const Token = process.env.DISCORD_TOKEN_BOT
 
 client.on('ready', () => {
