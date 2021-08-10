@@ -37,13 +37,6 @@ Simple Command That Runs The BOT For you.
 npm start
 ```
 
-```sh
-DISCORD_TOKEN_BOT="" # Paste the Bot Token Here.
-DISCORD_BOT_ID="" # Paste the Bot Id Here.
-```
-
-
-
 
 
 
