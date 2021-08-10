@@ -3,7 +3,7 @@
 
 DNF Is an simple Framework Based on NodeJS, With Cool Features that makes coding discord bots better & Extendable.
 ## Features
-- ✨Middlewares.
+- ✨Middlewares (Secures Commands, Checks Commands, User, Etc).
 - ✨Commands (Controllers).
 - ✨Simple Users Database.
 - ✨ Comes With Many Cool Examples.
