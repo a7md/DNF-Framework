@@ -14,5 +14,9 @@
     "changeDescription" : {
         "permission" : ["ADMIN","USER"],
         "description" : "Changes the user description."
+    },
+    "avatar" : {
+        "permission" : ["ADMIN","USER"],
+        "description" : "Get User Avatar."
     }
 }
